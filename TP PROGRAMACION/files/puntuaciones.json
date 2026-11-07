@@ -1,0 +1,118 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sambadera",
+    "puntaje": 160,
+    "fecha": "2026-10-28 12:05:47"
+  },
+  {
+    "id": 2,
+    "nombre": "Sambadera",
+    "puntaje": 40,
+    "fecha": "2026-10-28 12:09:25"
+  },
+  {
+    "id": 3,
+    "nombre": "Sambadera",
+    "puntaje": 910,
+    "fecha": "2026-10-28 12:15:14"
+  },
+  {
+    "id": 4,
+    "nombre": "Sambadera",
+    "puntaje": 0,
+    "fecha": "2026-10-31 23:21:21"
+  },
+  {
+    "id": 5,
+    "nombre": "Samba",
+    "puntaje": 670,
+    "fecha": "2026-10-31 23:36:40"
+  },
+  {
+    "id": 6,
+    "nombre": "sasa",
+    "puntaje": 350,
+    "fecha": "2026-10-31 23:41:24"
+  },
+  {
+    "id": 7,
+    "nombre": "tadeo rojkis",
+    "puntaje": 130,
+    "fecha": "2026-11-01 14:52:38"
+  },
+  {
+    "id": 8,
+    "nombre": "rosca",
+    "puntaje": 310,
+    "fecha": "2026-11-02 18:08:53"
+  },
+  {
+    "id": 9,
+    "nombre": "rosca",
+    "puntaje": 550,
+    "fecha": "2026-11-02 18:09:33"
+  },
+  {
+    "id": 10,
+    "nombre": "rosca",
+    "puntaje": 590,
+    "fecha": "2026-11-02 18:10:42"
+  },
+  {
+    "id": 11,
+    "nombre": "rosca",
+    "puntaje": 600,
+    "fecha": "2026-11-02 18:11:31"
+  },
+  {
+    "id": 12,
+    "nombre": "rosca",
+    "puntaje": 1210,
+    "fecha": "2026-11-02 18:13:12"
+  },
+  {
+    "id": 13,
+    "nombre": "fedeblanc",
+    "puntaje": 730,
+    "fecha": "2026-11-04 10:17:05"
+  },
+  {
+    "id": 14,
+    "nombre": "federico",
+    "puntaje": 770,
+    "fecha": "2026-11-04 10:19:44"
+  },
+  {
+    "id": 15,
+    "nombre": "federico",
+    "puntaje": 430,
+    "fecha": "2026-11-04 10:20:27"
+  },
+  {
+    "id": 16,
+    "nombre": "federico",
+    "puntaje": 190,
+    "fecha": "2026-11-04 10:21:27"
+  },
+  {
+    "id": 17,
+    "nombre": "facha",
+    "puntaje": 820,
+    "fecha": "2026-11-04 10:25:34"
+  },
+  {
+    "id": 18,
+    "nombre": "juli",
+    "puntaje": 1800,
+    "fecha": "2026-11-04 10:59:08",
+    "dificultad": "Normal"
+  },
+  {
+    "id": 19,
+    "nombre": "juli",
+    "puntaje": 140,
+    "fecha": "2026-11-04 10:59:20",
+    "dificultad": "Normal"
+  }
+]
